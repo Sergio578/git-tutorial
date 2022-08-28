@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    color: black;
+}
+
+.title {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
